@@ -1,1 +1,1 @@
-This is a production text, it shouldn't be changed anyway.
+This is a production text, it shouldn't be changed anyway. [and this part simulates a hot fix for the production server.]
