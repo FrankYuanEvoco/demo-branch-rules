@@ -1,0 +1,2 @@
+this line represents the implementation of feature two.
+this line simulates the second commit of feature two. Two commits should be squashed into one commit when viewing the commit history.
